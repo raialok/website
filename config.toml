@@ -12,7 +12,7 @@ theme = "hello-friend-ng"
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "Alok Rai blog: thoughts and ideas"
   keywords = "homepage, blog"
   images = [""]
 
@@ -21,6 +21,29 @@ theme = "hello-friend-ng"
 
   # Default theme "light" or "dark"
   defaultTheme = "light"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/alokRR"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:alok.rai@berkeley.edu"
+
+  # Github commented out for now
+  #[[params.social]]
+  #  name = "github"
+  #  url  = "https://github.com/"
+
+  # LinkedIn commented out for now
+  #[[params.social]]
+  #  name = "linkedin"
+  #  url  = "https://www.linkedin.com/"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/alokrai3"
 
 [languages]
   [languages.en]
@@ -31,7 +54,7 @@ theme = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "hello world"
+      logoText = "Keyboard(Thoughts?) –> Words"
       logoHomeLink = "/"
     # or
     #
@@ -39,7 +62,12 @@ theme = "hello-friend-ng"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
+  [menu]
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
