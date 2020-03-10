@@ -20,18 +20,18 @@ theme = "hello-friend-ng"
   contentTypeName = "posts"
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
-    subtitle = "A simple theme for Hugo"
+    title = "Alok Rai"
+    subtitle = ""
     keywords = ""
-    copyright = ""
+    copyright = "Alok Rai"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "hello world"
       logoHomeLink = "/"
     # or
     #
@@ -40,6 +40,6 @@ theme = "hello-friend-ng"
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "blog"`
+    identifier = "blog"
     name       = "Blog"
     url        = "/posts"
