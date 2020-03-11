@@ -54,7 +54,7 @@ theme = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Keyboard(Thoughts?) –> Words"
+      logoText = "Thoughts? –> Words"
       logoHomeLink = "/"
     # or
     #
