@@ -6,4 +6,4 @@ aliases = ["about-me", "alok", "alokRai"]
   name = "Alok Rai"
 +++
 
-I am a software engineer in Paris. I am interested in Artificial Intelligence and distributed systems. I enjoy hiking, running, and urban exploration.
+I am a software engineer in Paris. I am interested in Artificial Intelligence, finance, and distributed systems. I enjoy reading, hiking, and urban exploration.
