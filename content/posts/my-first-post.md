@@ -8,7 +8,7 @@ tags:
   - untagged
 ---
 
-“We shall not shock anyone, we shall merely expose ourselves to good-natured or at any rate harmless ridicule if we profess ourselves inclined to old-fashioned and simple opinion according to which Machiavelli was a teacher of evil.”  -  Leo Strauss, Thoughts on Machiavelli
+> “We shall not shock anyone, we shall merely expose ourselves to good-natured or at any rate harmless ridicule if we profess ourselves inclined to old-fashioned and simple opinion according to which Machiavelli was a teacher of evil.”  -  Leo Strauss, Thoughts on Machiavelli
 
 Patrick Deneen subscribes to the Straussian history of politics that views Machiavelli's philosophy as the revolutionary break with classical and Christian philosophy, one that replaced the cultivation of virtue with the channeling of vices, a project that subordinated the sublime "high" to the solid "low." Over the next five hundred years, this liberal project has taken over and transformed the world in its own image. Deneen sees it as fundamentally flawed and seeks a radical break from it.
 
