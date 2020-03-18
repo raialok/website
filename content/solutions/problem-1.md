@@ -33,7 +33,7 @@ Now that we know the value of n, we can simply plug the values in our AP sum for
 Here is our function to calculate the sum of an AP:
 
 ```python
-def sum_of_AP(a: int, d: int, end: int) -> int:
+def sum_of_AP(a: int, d: int, end: int):
     n = find_n(a, d, end)
     return (n / 2) * (2 * a + (n - 1) * d)
 ```
@@ -45,7 +45,7 @@ We subtract the sum of multiples of 15 to correct for double counting,
 first when adding sum of 3s and second when adding the multiples of 5 to obtain final result.
 
 ```python
-def sum_3_5_multiples() -> int:
+def sum_3_5_multiples():
     return sum_of_AP(0, 3, 1000) + sum_of_AP(0, 5, 1000) - sum_of_AP(0, 15, 1000)
 
 print(sum_3_5_multiples())
