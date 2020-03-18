@@ -26,8 +26,7 @@ We first write a simple function to calculate the value of n by finding the last
 
 ```python
 def find_n(a: int, d: int, end: int) -> int:
-    end = end - 1
-    return 1 + ((end - a) // d) #adding 1 to account for the first term
+    return 1 + ((end - a - 1) // d) #adding 1 to account for the first term
 ```
 
 We now write the function to calculate the sum of an AP:
