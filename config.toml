@@ -69,7 +69,7 @@ theme = "hello-friend-ng"
     url        = "about/"
   [[menu.main]]
     identifier = "Project Euler"
-    name       = "Project Euler Solutions"
+    name       = "Project Euler"
     url        = "solutions/"
   [[menu.main]]
     identifier = "posts"
