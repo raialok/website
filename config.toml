@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
+googleAnalytics = "UA-161160550-1"
 
 [params]
   dateform        = "Jan 2, 2006"
