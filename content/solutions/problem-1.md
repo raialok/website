@@ -29,15 +29,14 @@ def find_n(a: int, d: int, end: int) -> int:
     return 1 + ((end - a - 1) // d) #adding 1 to account for the first term
 ```
 
-We now write the function to calculate the sum of an AP:
+Now that we know the value of n, we can simply plug the values in our AP sum formula to calculate the result.
+Here is our function to calculate the sum of an AP:
 
 ```python
 def sum_of_AP(a: int, d: int, end: int) -> int:
     n = find_n(a, d, end)
     return (n / 2) * (2 * a + (n - 1) * d)
 ```
-
-Now that we know the value of n, we can simply plug the values in our AP sum formula to calculate the result.
 
 In the range 1 to 1000, we need to calculate:
 the sum of multiples of 3 + the sum of multiples of 5 - the sum of multiples of 15.
