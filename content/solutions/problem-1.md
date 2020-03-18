@@ -43,7 +43,7 @@ In the range 1 to 1000, we need to calculate:
 the sum of multiples of 3 + the sum of multiples of 5 - the sum of multiples of 15.
 
 We subtract the sum of multiples of 15 to correct for double counting,
-first when adding sum of 3s and second when adding the multiples of 5.
+first when adding sum of 3s and second when adding the multiples of 5 to obtain final result.
 
 ```python
 def sum_3_5_multiples() -> int:
