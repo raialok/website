@@ -20,7 +20,7 @@ where a is the first term and d is the common difference.
 
 At this stage, however, we can't use this formula directly because we do not know the value of n.
 
-We first write a simple function to calculate the value of n by finding the last term
+We will first write a simple function to calculate the value of n by finding the last term
 
 ```python
 def find_n(a: int, d: int, end: int) -> int:
