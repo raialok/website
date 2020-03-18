@@ -13,17 +13,17 @@ The sum of these multiples is 23.
 
 Find the sum of all the multiples of 3 or 5 below 1000.
 
-The problem can be reduced to an arithmetic series and solved in O(n).
+The problem can be reduced to an arithmetic series and solved in O(1).
 
-First, we define a simple function to calculate the sum of an arithmetic series using the
+We can use a simple function to calculate the sum of an arithmetic series using the
 formula:
 
 Sum of n terms of AP = (n/2) \* [2a + (n – 1)d]
 where a is the first term and d is the common difference.
 
-We cannot however use this formula directly because we do not know the value of n.
+At this stage, however, use this formula directly because we do not know the value of n.
 
-We write a simple function to calculate the value of n by finding the last term
+We first write a simple function to calculate the value of n by finding the last term
 
 ```python
 def find_n(a: int, d: int, end: int) -> int:
@@ -31,7 +31,7 @@ def find_n(a: int, d: int, end: int) -> int:
     return 1 + ((end - a) // d) #adding 1 to account for the first term
 ```
 
-We now write the AP sum function:
+We now write the function to calculate the sum of an AP:
 
 ```python
 def sum_of_AP(a: int, d: int, end: int) -> int:
@@ -39,10 +39,10 @@ def sum_of_AP(a: int, d: int, end: int) -> int:
     return (n / 2) * (2 * a + (n - 1) * d)
 ```
 
-Now that we know the know the value of n, we can simply plug the values in our AP sum formula to calculate the result.
+Now that we know the value of n, we can simply plug the values in our AP sum formula to calculate the result.
 
 In the range 1 to 1000, we need to calculate:
-sum of multiples of 3 + sum of multiples of 5 - sum of multiples of 15
+the sum of multiples of 3 + the sum of multiples of 5 - the sum of multiples of 15.
 
 We subtract the sum of multiples of 15 to correct for double counting,
 first when adding sum of 3s and second when adding the multiples of 5.
