@@ -18,7 +18,7 @@ formula:
 Sum of n terms of AP = (n/2) \* [2a + (n – 1)d]
 where a is the first term and d is the common difference.
 
-At this stage, however, use this formula directly because we do not know the value of n.
+At this stage, however, we can't use this formula directly because we do not know the value of n.
 
 We first write a simple function to calculate the value of n by finding the last term
 
