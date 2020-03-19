@@ -68,11 +68,19 @@ googleAnalytics = "UA-161160550-1"
     identifier = "about"
     name       = "About"
     url        = "about/"
+    weight     = -110
   [[menu.main]]
-    identifier = "Project Euler"
+    identifier = "Euler"
     name       = "Project Euler"
     url        = "solutions/"
+    weight = -108
+  #[[menu.main]]
+  #  identifier = "Cool stuff"
+  #  name       = "Cool Stuff"
+  #  url        = "about/"
+  #  weight = -105
   [[menu.main]]
     identifier = "posts"
-    name       = "Posts"
+    name       = "Blog"
     url        = "posts/"
+    weight = -100
