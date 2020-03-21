@@ -42,7 +42,7 @@ print(get_fib_even_sum(4_000_000))
 
     4613732
 
-A cleaner and more Pythonic way would be to use `lru_cache` form `functools` in [Python3](https://docs.python.org/3/library/functools.html)
+A cleaner and more Pythonic way would be to use `lru_cache` from `functools` in [Python3](https://docs.python.org/3/library/functools.html)
 
 ```python
 from functools import lru_cache
