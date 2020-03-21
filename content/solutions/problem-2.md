@@ -11,7 +11,7 @@ draft: false
 >
 > By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
-To calculate the terms of the Fibonacci sequence efficiently, it will be useful to store them in a global dictionary so that every term is computed only once. Before calculating the value of a term, we will first check if we have already computed it. This removes the duplication of computing values and transforms the problem to O(n).
+By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
 ```python
 fibs = {1: 1, 2: 1}
@@ -24,8 +24,6 @@ def create_fib(n):
         fibs[n] = create_fib(n - 1) + create_fib(n - 2)
         return fibs[n]
 ```
-
-After finishing the `create_fib` function, we can now write a simple function that computes the sum of all even terms of the Fibonacci sequence up to a given value and obtain the desired answer 4613732.
 
 ```python
 def get_fib_even_sum(end):
@@ -40,12 +38,13 @@ def get_fib_even_sum(end):
     return total
 
 print(get_fib_even_sum(4_000_000))
-4613732
 ```
 
-A more Pythonic way would be to use `lru_cache` form `functools` in [Python3](https://docs.python.org/3/library/functools.html)
+    4613732
 
-```
+A cleaner and more Pythonic way would be to use `lru_cache` form `functools` in [Python3](https://docs.python.org/3/library/functools.html)
+
+```python
 from functools import lru_cache
 
 @lru_cache(maxsize=None)
