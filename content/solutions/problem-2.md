@@ -40,6 +40,17 @@ def get_fib_even_sum(end):
     return total
 
 print(get_fib_even_sum(4_000_000))
+4613732
 ```
 
-    4613732
+A more Pythonic way would be to use `lru_cache` form `functools` in [Python3](https://docs.python.org/3/library/functools.html)
+
+```
+from functools import lru_cache
+
+@lru_cache(maxsize=None)
+def fib(n):
+    if n < 2:
+        return n
+    return fib(n-1) + fib(n-2)
+```

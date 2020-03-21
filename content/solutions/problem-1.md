@@ -47,6 +47,5 @@ def sum_3_5_multiples():
     return sum_of_AP(0, 3, 1000) + sum_of_AP(0, 5, 1000) - sum_of_AP(0, 15, 1000)
 
 print(sum_3_5_multiples())
-
-    233168.0
+233168.0
 ```
