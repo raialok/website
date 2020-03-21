@@ -1,7 +1,7 @@
 ---
 title: "Problem 4"
 date: 2020-03-21T12:08:49+01:00
-draft: true
+draft: false
 ---
 
 > A palindromic number reads the same both ways.
