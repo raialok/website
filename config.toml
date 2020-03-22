@@ -70,7 +70,7 @@ googleAnalytics = "UA-161160550-1"
     url        = "about/"
     weight     = -110
   [[menu.main]]
-    identifier = "Quotes"
+    identifier = "quotes"
     name       = "Quotes"
     url        = "quotes/"
     weight = -109
