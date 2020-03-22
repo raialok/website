@@ -1,7 +1,7 @@
 ---
 title: "Problem 6"
 date: 2020-03-23T00:00:18+01:00
-draft: true
+draft: false
 ---
 
 > The sum of the squares of the first ten natural numbers is 385. The square of the sum of the first ten natural numbers is 3025. Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025−385=2640
