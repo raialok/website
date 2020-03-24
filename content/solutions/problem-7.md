@@ -1,7 +1,7 @@
 ---
 title: "Problem 7"
 date: 2020-03-24T10:39:22+01:00
-draft: true
+draft: false
 ---
 
 > By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
