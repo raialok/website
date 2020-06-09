@@ -12,7 +12,7 @@
 
 - _"Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."_ – Alan Kay
 
-- _"Programs must be written for people to read, and only incidentally for machines to execute."_ – Harold Abelson & Gerald Jay Sussman, _Structure and Interpreation of Computer Programs_
+- _"Programs must be written for people to read, and only incidentally for machines to execute."_ – Harold Abelson & Gerald Jay Sussman, _Structure and Interpretation of Computer Programs_
 
 - _"You gotta know when to hold ’em,\
   know when to fold ’em,\
