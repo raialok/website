@@ -21,4 +21,4 @@
 
 - _"The critical programming concerns of software engineering and artificial intelligence tend to coalesce as the systems under investigation become larger."_ – Alan Perlis
 
--_"Success breeds complacency. Complacency breeds failure. Only the paranoid survive."_ – Andy Grove
+- _"Success breeds complacency. Complacency breeds failure. Only the paranoid survive."_ – Andy Grove

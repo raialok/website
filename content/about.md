@@ -6,7 +6,7 @@ aliases = ["about-me", "alok", "alokRai"]
   name = "Alok Rai"
 +++
 
-I am a software engineer in Paris. The world is full of interesting problems solvable with focus, skill, and sheer determination thereby improving our lives. I like to work on the subset of problems tractable with technological innovation and strategic thinking. My primary interests are product management, artificial intelligence, and distributed systems.
+I am a software engineer in Paris. The world is full of interesting problems. I like to solve some. My primary interests are product management, fullstack development, and artificial intelligence
 
 I enjoy reading, hiking, and urban exploration.
 

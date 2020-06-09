@@ -74,11 +74,6 @@ googleAnalytics = "UA-161160550-1"
     name       = "Quotes"
     url        = "quotes/"
     weight = -109
-  [[menu.main]]
-    identifier = "Euler"
-    name       = "Project Euler"
-    url        = "solutions/"
-    weight = -108
   #[[menu.main]]
   #  identifier = "Cool stuff"
   #  name       = "Cool Stuff"
