@@ -23,6 +23,6 @@
 
 - _"The critical programming concerns of software engineering and artificial intelligence tend to coalesce as the systems under investigation become larger."_ – Alan Perlis
 
-- _"The present is the past rolled up for action, and the past is the present un­ rolled for understanding"_ – Will and Ariel Durant
+- _"The present is the past rolled up for action, and the past is the present un­rolled for understanding"_ – Will and Ariel Durant
 
 - _"Success breeds complacency. Complacency breeds failure. Only the paranoid survive."_ – Andy Grove
