@@ -74,11 +74,11 @@ googleAnalytics = "UA-161160550-1"
     name       = "Quotes"
     url        = "quotes/"
     weight = -109
-  #[[menu.main]]
-  #  identifier = "Cool stuff"
-  #  name       = "Cool Stuff"
-  #  url        = "about/"
-  #  weight = -105
+  [[menu.main]]
+    identifier = "Favorite Papers"
+    name       = "Favorite Papers"
+    url        = "papers/"
+    weight = -105
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
