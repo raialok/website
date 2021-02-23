@@ -76,7 +76,7 @@ googleAnalytics = "UA-161160550-1"
     weight = -109
   [[menu.main]]
     identifier = "Favorite Papers"
-    name       = "Favorite Papers"
+    name       = "Papers"
     url        = "papers/"
     weight = -105
   [[menu.main]]
