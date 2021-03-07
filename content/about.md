@@ -6,8 +6,8 @@ aliases = ["about-me", "alok", "alokRai"]
   name = "Alok Rai"
 +++
 
-After finishing my Masters in Computer Science, I enjoyed teaching and researching for a while before transitioning into industry. I bring in technical skill from my computer science education, along with the understanding of processes and organisations from consulting career, the gestalt aimed at producing great products.
+Hi, I am Alok. I enjoy writing code and prose. My primary interests are software engineering, programming languages, and distributed systems including blockchain.
 
-I am currently a software engineer in Paris. I will soon be joining a Healthcare company, trying to build the best virtual patient care system.
+In my last career, I worked as a consultant. Realising that I much rather build and take responsibility for things over long term, I switched to engineering. After a productive sojourn of teaching and research in academia , I moved to industry. I am currently software engineer in Paris at a healthcare company.
 
 I enjoy reading, hiking, and urban exploration.
