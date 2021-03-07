@@ -18,12 +18,12 @@ O her heart truly fears it now,
 &nbsp;&nbsp;&nbsp;&nbsp;Mourning gargoyles lustily lamented,\
 "Will I remain stuck down so low ?"  
 
-Something indeed she has lost,  
+Something indeed she has lost,\
 &nbsp;&nbsp;&nbsp;&nbsp;How resents being mere shell of agonies.\
-&nbsp;&nbsp;&nbsp;&nbsp;O, Deprive her of this unrelenting weakness\
+&nbsp;&nbsp;&nbsp;&nbsp;O, Deprive her of this unrelenting weakness,\
 "Wish only stand tall without support !"
 
-Nameless, formless, fears stalk her moments  
+Nameless, formless, fears stalk her moments,\
 &nbsp;&nbsp;&nbsp;&nbsp;Her candles no longer fight dark night;\
 &nbsp;&nbsp;&nbsp;&nbsp;Yet dawn about to kindle the first light,\
 "And yet Healed shall be, I, delightful mistress of Paris !"  
