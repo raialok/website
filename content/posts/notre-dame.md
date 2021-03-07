@@ -8,23 +8,22 @@ tags:
   - untagged
 ---
 
-Anguish clouds her delicate visage;
-  Her Allure, cherished ornament of Seine;
-  Cruel Tyche stuck, the dismay of Aphrodite, 
-"Fear malice spirited away my grace !"
+Anguish clouds her delicate visage;\
+&nbsp;&nbsp;&nbsp;&nbsp;Her Beauty, cherished ornament of Seine;\
+&nbsp;&nbsp;&nbsp;&nbsp;Cruel Tyche stuck, the dismay of Aphrodite,\
+"Fear malice spirited away my grace !"  
 
-O her heart truly fears it now,
-  Blazing flames feasted deranged;
-  Mourning gargoyles lustily lamented,
-"Will I remain stuck down so low ?" 
+O her heart truly fears it now,  
+&nbsp;&nbsp;&nbsp;&nbsp;Blazing flames feasted deranged;\
+&nbsp;&nbsp;&nbsp;&nbsp;Mourning gargoyles lustily lamented,\
+"Will I remain stuck down so low ?"  
 
-Something indeed she has lost,
-  How resents being mere shell of agonies ,
-  O, Deprive her of this unrelenting weakness,
+Something indeed she has lost,  
+&nbsp;&nbsp;&nbsp;&nbsp;How resents being mere shell of agonies.\
+&nbsp;&nbsp;&nbsp;&nbsp;O, Deprive her of this unrelenting weakness\
 "Wish only stand tall without support !"
 
-Nameless, formless, fears stalk her moments
-  Her candles no longer fight dark night;
-  Yet dawn about to kindle the first light,
-"Healed, I am to be joyous mistress of Paris !" 
-
+Nameless, formless, fears stalk her moments  
+&nbsp;&nbsp;&nbsp;&nbsp;Her candles no longer fight dark night;\
+&nbsp;&nbsp;&nbsp;&nbsp;Yet dawn about to kindle the first light,\
+"Healed shall be, I, delightful mistress of Paris !"  
