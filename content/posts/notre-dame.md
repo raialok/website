@@ -26,4 +26,4 @@ Something indeed she has lost,
 Nameless, formless, fears stalk her moments  
 &nbsp;&nbsp;&nbsp;&nbsp;Her candles no longer fight dark night;\
 &nbsp;&nbsp;&nbsp;&nbsp;Yet dawn about to kindle the first light,\
-"Healed shall be, I, delightful mistress of Paris !"  
+"And yet Healed shall be, I, delightful mistress of Paris !"  
