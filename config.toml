@@ -42,9 +42,9 @@ googleAnalytics = "UA-161160550-1"
   #  name = "linkedin"
   #  url  = "https://www.linkedin.com/"
 
-  [[params.social]]
-    name = "instagram"
-    url  = "https://www.instagram.com/alokrai3"
+  # [[params.social]]
+  #  name = "instagram"
+  #  url  = "https://www.instagram.com/alokrai3"
 
 [languages]
   [languages.en]
