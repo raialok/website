@@ -1,5 +1,5 @@
 ---
-title: "The Notre Dame"
+title: "The Notre-Dame"
 date: 2021-03-08T00:42:32+01:00
 draft: false
 toc: false
