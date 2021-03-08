@@ -23,7 +23,7 @@ Something indeed she has lost,\
 &nbsp;&nbsp;&nbsp;&nbsp;O, Deprive her of this unrelenting weakness,\
 "Wish only stand tall without support !"
 
-Nameless, formless, fears stalk her moments,\
+Nameless, formless, fears uninvited call,\
 &nbsp;&nbsp;&nbsp;&nbsp;Her candles no longer fight dark night;\
 &nbsp;&nbsp;&nbsp;&nbsp;Yet dawn about to kindle the first light,\
-"And yet Healed shall be, I, delightful mistress of Paris !"  
+"And yet Healed I shall be after all!"  
