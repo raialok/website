@@ -1,6 +1,6 @@
 ---
 title: "Patrick Deneen’s (anti-) Machiavellian move"
-date: 2020-09-10T12:51:41+01:00
+date: 2020-03-10T12:51:41+01:00
 draft: false
 toc: false
 images:
